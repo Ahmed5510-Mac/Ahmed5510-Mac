@@ -1,10 +1,10 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm ِAhmed Darwish</h1>
+
+<h1 align="left">Hi 👋, I'm ِAhmed Darwish</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" width="400px" src="https://d.top4top.io/p_2703rbqad1.png">
+<img align="right" width="450px" src="https://d.top4top.io/p_2703rbqad1.png">
 - 🔭 I’m currently working on **Gis**
 
-- 🌱 I’m currently learning **micro frontEnd - GIS**
+- 🌱 I’m currently learning **micro frontEnd and GIS**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-darwish-1l1g7hy2u-ahmed5510-mac.vercel.app/](https://ahmed-darwish-1l1g7hy2u-ahmed5510-mac.vercel.app/)
 
